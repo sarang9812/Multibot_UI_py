@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>816</width>
+    <width>761</width>
     <height>605</height>
    </rect>
   </property>
@@ -38,7 +38,7 @@
         <rect>
          <x>10</x>
          <y>20</y>
-         <width>371</width>
+         <width>311</width>
          <height>501</height>
         </rect>
        </property>
@@ -54,213 +54,227 @@
         <string> list</string>
        </property>
        <layout class="QGridLayout" name="gridLayout_2">
-        <item row="12" column="1">
-         <widget class="QCheckBox" name="checkBox_1">
-          <property name="text">
-           <string>포테토칩</string>
-          </property>
-         </widget>
-        </item>
-        <item row="8" column="1">
-         <widget class="QCheckBox" name="checkBox_19">
-          <property name="text">
-           <string>포카칩</string>
-          </property>
-         </widget>
-        </item>
-        <item row="2" column="0">
-         <widget class="QCheckBox" name="checkBox_21">
-          <property name="text">
-           <string>파인애플</string>
-          </property>
-         </widget>
-        </item>
-        <item row="11" column="1">
-         <widget class="QCheckBox" name="checkBox_4">
-          <property name="text">
-           <string>예감</string>
-          </property>
-         </widget>
-        </item>
-        <item row="10" column="0">
-         <widget class="QCheckBox" name="checkBox_29">
-          <property name="text">
-           <string>감자</string>
-          </property>
-         </widget>
-        </item>
-        <item row="9" column="0">
-         <widget class="QCheckBox" name="checkBox_28">
-          <property name="text">
-           <string>양배추</string>
-          </property>
-         </widget>
-        </item>
-        <item row="1" column="0">
-         <widget class="QCheckBox" name="checkBox_20">
-          <property name="text">
-           <string>바나나</string>
-          </property>
-         </widget>
-        </item>
-        <item row="9" column="1">
-         <widget class="QCheckBox" name="checkBox_2">
-          <property name="text">
-           <string>빈츠</string>
-          </property>
-         </widget>
-        </item>
-        <item row="7" column="1">
-         <widget class="QCheckBox" name="checkBox_18">
-          <property name="text">
-           <string>뿌셔뿌셔</string>
-          </property>
-         </widget>
-        </item>
-        <item row="13" column="0">
-         <widget class="QCheckBox" name="checkBox_7">
-          <property name="text">
-           <string>가지</string>
-          </property>
-         </widget>
-        </item>
-        <item row="5" column="0">
-         <widget class="QCheckBox" name="checkBox_25">
-          <property name="text">
-           <string>멜론</string>
-          </property>
-         </widget>
-        </item>
-        <item row="3" column="1">
-         <widget class="QCheckBox" name="checkBox_14">
-          <property name="text">
-           <string>이프로</string>
-          </property>
-         </widget>
-        </item>
-        <item row="2" column="1">
-         <widget class="QCheckBox" name="checkBox_13">
-          <property name="text">
-           <string>파워에이드</string>
-          </property>
-         </widget>
-        </item>
-        <item row="3" column="0">
-         <widget class="QCheckBox" name="checkBox_22">
-          <property name="text">
-           <string>포도</string>
-          </property>
-         </widget>
-        </item>
-        <item row="1" column="1">
-         <widget class="QCheckBox" name="checkBox_12">
-          <property name="text">
-           <string>사이다</string>
-          </property>
-         </widget>
-        </item>
-        <item row="12" column="0">
+        <item row="11" column="0">
          <widget class="QCheckBox" name="checkBox_9">
           <property name="text">
            <string>오이</string>
           </property>
          </widget>
         </item>
-        <item row="8" column="0">
-         <widget class="QCheckBox" name="checkBox_27">
+        <item row="9" column="0">
+         <widget class="QCheckBox" name="checkBox_7">
           <property name="text">
-           <string>당근</string>
+           <string>가지</string>
           </property>
          </widget>
         </item>
-        <item row="7" column="0">
-         <widget class="QCheckBox" name="checkBox_26">
-          <property name="text">
-           <string>고구마</string>
-          </property>
-         </widget>
-        </item>
-        <item row="4" column="1">
-         <widget class="QCheckBox" name="checkBox_15">
-          <property name="text">
-           <string>게토레이</string>
-          </property>
-         </widget>
-        </item>
-        <item row="10" column="1">
-         <widget class="QCheckBox" name="checkBox_30">
+        <item row="2" column="0">
+         <widget class="QCheckBox" name="checkBox_3">
           <property name="text">
            <string>버터와플</string>
           </property>
          </widget>
         </item>
-        <item row="11" column="0">
-         <widget class="QCheckBox" name="checkBox_24">
-          <property name="text">
-           <string>호박</string>
-          </property>
-         </widget>
-        </item>
-        <item row="0" column="0">
-         <widget class="QCheckBox" name="checkBox_10">
-          <property name="text">
-           <string>사과 </string>
-          </property>
-         </widget>
-        </item>
-        <item row="15" column="0">
-         <widget class="QCheckBox" name="checkBox_3">
-          <property name="text">
-           <string>양배추</string>
-          </property>
-         </widget>
-        </item>
-        <item row="14" column="0">
-         <widget class="QCheckBox" name="checkBox_5">
-          <property name="text">
-           <string>대파</string>
-          </property>
-         </widget>
-        </item>
-        <item row="13" column="1">
-         <widget class="QCheckBox" name="checkBox_6">
-          <property name="text">
-           <string>새콤달콤</string>
-          </property>
-         </widget>
-        </item>
-        <item row="4" column="0">
-         <widget class="QCheckBox" name="checkBox_23">
-          <property name="text">
-           <string>복숭아</string>
-          </property>
-         </widget>
-        </item>
-        <item row="6" column="0">
+        <item row="10" column="0">
          <widget class="QCheckBox" name="checkBox_8">
           <property name="text">
            <string>딸기</string>
           </property>
          </widget>
         </item>
-        <item row="6" column="1">
+        <item row="18" column="0">
+         <widget class="QCheckBox" name="checkBox_15">
+          <property name="text">
+           <string>게토레이</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QCheckBox" name="checkBox_18">
+          <property name="text">
+           <string>뿌셔뿌셔</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QCheckBox" name="checkBox_2">
+          <property name="text">
+           <string>빈츠</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QCheckBox" name="checkBox_1">
+          <property name="text">
+           <string>포테토칩</string>
+          </property>
+         </widget>
+        </item>
+        <item row="13" column="1">
+         <widget class="QCheckBox" name="checkBox_26">
+          <property name="text">
+           <string>고구마</string>
+          </property>
+         </widget>
+        </item>
+        <item row="15" column="0">
+         <widget class="QCheckBox" name="checkBox_12">
+          <property name="text">
+           <string>사이다</string>
+          </property>
+         </widget>
+        </item>
+        <item row="13" column="0">
+         <widget class="QCheckBox" name="checkBox_10">
+          <property name="text">
+           <string>사과 </string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
          <widget class="QCheckBox" name="checkBox_17">
           <property name="text">
            <string>나랑드사이다</string>
           </property>
          </widget>
         </item>
+        <item row="17" column="0">
+         <widget class="QCheckBox" name="checkBox_14">
+          <property name="text">
+           <string>이프로</string>
+          </property>
+         </widget>
+        </item>
+        <item row="14" column="0">
+         <widget class="QCheckBox" name="checkBox_11">
+          <property name="text">
+           <string>콜라</string>
+          </property>
+         </widget>
+        </item>
         <item row="5" column="1">
+         <widget class="QCheckBox" name="checkBox_20">
+          <property name="text">
+           <string>바나나</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QCheckBox" name="checkBox_19">
+          <property name="text">
+           <string>포카칩</string>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="0">
+         <widget class="QCheckBox" name="checkBox_6">
+          <property name="text">
+           <string>새콤달콤</string>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="1">
+         <widget class="QCheckBox" name="checkBox_21">
+          <property name="text">
+           <string>파인애플</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="0">
+         <widget class="QCheckBox" name="checkBox_4">
+          <property name="text">
+           <string>예감</string>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="0">
+         <widget class="QCheckBox" name="checkBox_5">
+          <property name="text">
+           <string>뿌셔뿌셔</string>
+          </property>
+         </widget>
+        </item>
+        <item row="16" column="0">
+         <widget class="QCheckBox" name="checkBox_13">
+          <property name="text">
+           <string>파워에이드</string>
+          </property>
+         </widget>
+        </item>
+        <item row="19" column="0">
          <widget class="QCheckBox" name="checkBox_16">
           <property name="text">
            <string>링티</string>
           </property>
          </widget>
         </item>
-        <item row="0" column="1">
-         <widget class="QCheckBox" name="checkBox_11">
+        <item row="9" column="1">
+         <widget class="QCheckBox" name="checkBox_23">
           <property name="text">
-           <string>콜라</string>
+           <string>복숭아</string>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="1">
+         <widget class="QCheckBox" name="checkBox_22">
+          <property name="text">
+           <string>포도</string>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="1">
+         <widget class="QCheckBox" name="checkBox_24">
+          <property name="text">
+           <string>호박</string>
+          </property>
+         </widget>
+        </item>
+        <item row="11" column="1">
+         <widget class="QCheckBox" name="checkBox_25">
+          <property name="text">
+           <string>멜론</string>
+          </property>
+         </widget>
+        </item>
+        <item row="14" column="1">
+         <widget class="QCheckBox" name="checkBox_27">
+          <property name="text">
+           <string>당근</string>
+          </property>
+         </widget>
+        </item>
+        <item row="15" column="1">
+         <widget class="QCheckBox" name="checkBox_28">
+          <property name="text">
+           <string>양배추</string>
+          </property>
+         </widget>
+        </item>
+        <item row="16" column="1">
+         <widget class="QCheckBox" name="checkBox_29">
+          <property name="text">
+           <string>감자</string>
+          </property>
+         </widget>
+        </item>
+        <item row="17" column="1">
+         <widget class="QCheckBox" name="checkBox_30">
+          <property name="text">
+           <string>호박</string>
+          </property>
+         </widget>
+        </item>
+        <item row="18" column="1">
+         <widget class="QCheckBox" name="checkBox_31">
+          <property name="text">
+           <string>팽이버섯</string>
+          </property>
+         </widget>
+        </item>
+        <item row="19" column="1">
+         <widget class="QCheckBox" name="checkBox_32">
+          <property name="text">
+           <string>표고버섯</string>
           </property>
          </widget>
         </item>
@@ -269,7 +283,7 @@
       <widget class="QGroupBox" name="groupBox_top">
        <property name="geometry">
         <rect>
-         <x>390</x>
+         <x>330</x>
          <y>20</y>
          <width>391</width>
          <height>501</height>
@@ -366,7 +380,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>816</width>
+     <width>761</width>
      <height>22</height>
     </rect>
    </property>
